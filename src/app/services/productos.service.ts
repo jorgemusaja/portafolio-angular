@@ -78,7 +78,7 @@ private filtrarProductos(termino: string) {
 
   }
 
-  )
+  );
 
 }
 
